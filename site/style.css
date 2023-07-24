@@ -1,0 +1,156 @@
+#ana{
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    
+   
+}
+#ana .ust{
+    background-color: #EF6262;
+    width: 101%;
+    height: 40px;
+  margin-top: -18px;
+  margin-left: -8px;
+  letter-spacing: 2px;
+  font-family: sans-serif;
+}
+.ust ul {
+    list-style-type: none;
+}
+.ust li a{
+    text-decoration: none; 
+    text-align: center;
+    color: wheat;
+}
+.ust li{
+    float: left;
+    margin:5px;
+    padding-top: 8px;
+    padding-left: 15px;
+   
+}
+
+ .sagust{
+    border: 1px solid lightgrey;
+    margin-top: 5%;
+    width:250px;
+   height: 355px;
+   margin-left: 10px;
+
+ }
+ .sagalt{
+
+    margin-top: 1%;
+    width:252px;
+   height: 150px;
+   margin-left: 10px;
+
+ }
+ .sol{
+    border: 1px solid lightgrey;
+    width:600px;
+   height: 70px;
+   margin-top: -39%;
+   margin-left: 26%;
+ }
+ h3{
+    text-align: center;
+    color:#EF6262;
+    font-family: sans-serif;
+    font-size: 25px;
+    padding-top: -7px;
+ }
+ .solalt{
+    border: 1px solid lightgrey;
+    width:600px;
+   height: 450px;
+   margin-top: 2%;
+   margin-left: 26%;
+   text-align: center;
+   font-size: 30px;
+  
+ }
+ .sagalt table tr td{
+    border: 1px solid lightgrey;
+    width:252px;
+    height: auto;
+   padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+    text-align: center;
+ }
+.sagalt table a:hover{
+color:grey;
+}
+ table tr td a{
+    text-decoration: none;
+    color:#EF6262;
+ }
+ h5{
+    text-align: center;
+ }
+ .solkose{
+    border: 1px solid lightgrey;
+    width:250px;
+    height: 355px;
+   margin-top: -545px;
+   margin-left: 75%;
+
+
+ }
+ .slalt{
+    width:252px;
+    height: 160px;
+   margin-top: 2%;
+   margin-left: 75%;
+   background-color: wheat;
+
+ }
+.slalt table{
+    border: 1px solid lightgray;
+    width:250px;
+    height: 150px;
+   padding-left: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-family: sans-serif;
+}
+#btn{
+    height: 23px;
+    width: 100px;
+    margin-bottom: 5px;
+    margin-top: 7px;
+}
+
+input{
+    width: 120px;
+    height: 15px;
+}
+
+::placeholder{
+    background-color:wheat;
+    color:#EF6262;
+}
+.solkose ul {
+  
+     padding-left: -200px;
+
+    list-style-type: none;
+}
+.solkose a{
+    text-decoration: none;color: #EF6262;
+}
+.solkose ul li{
+        
+    padding-top: 15px;
+    border-bottom: 1px solid #EF6262;
+    
+}
+.solkose ul li a:hover{
+    color:grey;
+}
+.solkose ul li:nth-child(1){
+    background-color: #EF6262;
+   
+}

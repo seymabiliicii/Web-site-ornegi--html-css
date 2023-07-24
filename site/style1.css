@@ -1,0 +1,48 @@
+*{
+   
+    background-image: url(blackboard-g8dd0cdba0_1920.jpg);
+    background-repeat: no-repeat;
+background-size: auto;
+}
+
+table,tr,td
+{
+ border: 1px solid lightgray;
+ border-collapse: collapse;
+ margin-bottom: 50px;
+ color: aliceblue;
+ padding-top: 10px;
+ padding-left: 10px;
+ padding-bottom: 10px;
+ padding-right: 10px;
+
+}
+table{
+    margin: 450px;
+    margin-top: -1px;
+}
+h2{
+    color: aliceblue;
+  
+  padding-top: 15px;
+  padding-left: 550px;
+  
+
+}
+#btn{
+    margin-left:95px;
+    margin-right:20px;
+color:darkorange;
+border-radius: 15px;
+padding: 10px 10px;
+
+    
+}
+.btnn{
+
+color:darkorange;
+border-radius: 15px;
+padding: 10px 10px;
+    
+}
+
